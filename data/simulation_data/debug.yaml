@@ -1,0 +1,23 @@
+lidar:
+  main:
+    x_position: 0
+    y_position: 0
+    z_position: 1.75
+    roll: 0
+    pitch: 0
+    yaw: 0
+    upper_fov: 0
+    lower_fov: -22.5
+    num_channels: 128
+    points_per_channel: 1024
+camera:
+  main:
+    x_position: 0.95
+    y_position: 0.0
+    z_position: 1.4
+    roll: 0
+    pitch: 0
+    yaw: 0
+    img_width: 1920
+    img_height: 1080
+    fov: 120

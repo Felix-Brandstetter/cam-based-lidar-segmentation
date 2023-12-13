@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+*.pyc
+*.png
+*.npy
+*.bag
+*.label
+*.bin
+!.gitkeep
